@@ -46,9 +46,7 @@ public class F1 extends Car {
         }
     }
 
-    private int getCurrentDirection() {
-        return 0;
-    }
+
 
 
 }
