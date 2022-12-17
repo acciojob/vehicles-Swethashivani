@@ -4,6 +4,11 @@ public class Boat implements WaterVehicle {
     String name;
     int capacity;
 
+    public Boat(java.lang.String name, int capacity) {
+        this.name = name;
+        this.capacity = capacity;
+    }
+
     public String getName() {
         return name;
     }
