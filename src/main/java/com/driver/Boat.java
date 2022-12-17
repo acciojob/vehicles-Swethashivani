@@ -19,12 +19,12 @@ public class Boat implements WaterVehicle {
     }
 
 
-    @java.lang.Override
+
     public String getVehicleName() {
         return name;
     }
 
-    @java.lang.Override
+
     public int getVehicleCapacity() {
         return capacity;
     }
